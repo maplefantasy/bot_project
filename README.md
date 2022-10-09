@@ -1,2 +1,3 @@
-# bot_project
-申請用
+bot_project
+====
+
